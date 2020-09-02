@@ -1,2 +1,3 @@
 # react-shopping-list
-Created with CodeSandbox
+
+Application from [Beginner JavaScript](https://beginnerjavascript.com/) course by WesBos rewritten in ReactJS and using BEM
